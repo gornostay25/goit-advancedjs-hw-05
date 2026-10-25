@@ -1,0 +1,16 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^1.0.0",
+    "typescript": "5.7.3"
+  },
+  "license": "ISC"
+}
